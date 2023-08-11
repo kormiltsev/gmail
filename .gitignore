@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+bin/
+*.exe
+*linux*
+
+# Some data files
+data/
+
+# Creds
+credentials.json
