@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
-	gmail "google.golang.org/api/gmail/v1"
+	"google.golang.org/api/gmail/v1"
 	"google.golang.org/api/option"
 )
 
